@@ -1,0 +1,22 @@
+body{
+    background-repeat:round;
+    background-attachment: fixed;
+    margin:200px;
+}
+form{
+    color:black;
+    font-size:18px;
+}
+input {
+    border-radius: 10px 10px 10px 10px;
+    background-color:transparent;
+    margin: auto;
+    color:black;
+}
+    
+fieldset{
+    width:400px;
+    height:650px;
+    margin:0 auto;
+    display: block;
+}
